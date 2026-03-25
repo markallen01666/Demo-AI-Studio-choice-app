@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Demo of an AI-powered decision app generated using Google AI Studio</h1>
+   <h1>AI decision app generated using Google AI Studio</h1>
    <p>&nbsp;</p>
 </div>
 
